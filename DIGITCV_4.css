@@ -1,0 +1,37 @@
+body {
+    /* background-color: hsl(48, 49%, 67%); */
+    background: linear-gradient(-45deg,
+    hsl(-48,49%,67%), hsl(48, 49%, 67%));
+    font-family: Nunito Sans;
+}
+
+blockquote {
+    font-family: Meie Script;
+    font-size: 2em;
+    letter-spacing: 15;
+}
+
+body{
+    font-family: Nunito Sans;
+}
+
+h2 {
+    background-color: hsl(50, 50%, 50%);
+    font-family: Honk;
+    font-size: 3em;
+    text-shadow: 10px 5px rgb(255,255,255);
+    line-height: 1.5;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(121, 0, 173);
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    font-size: 15px;
+}
+
